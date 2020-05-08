@@ -10,3 +10,7 @@ Compile and run development server.
 ```
 $ ng serve
 ```
+
+### See Also
+
+ - [core project](https://github.com/CraicOverflow89/winston)
